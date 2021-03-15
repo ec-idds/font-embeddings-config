@@ -6,10 +6,10 @@
         8192,
         40
       ],
-      "tensorPath": "https://gist.githubusercontent.com/jameswex/34f2e8bcb18194924789d33837e721f5/raw/73593c234a6db12b6bbdb8731a75b6da87286341/8192_embeddings.tsv",
-      "bookmarksPath": "https://gist.githubusercontent.com/jameswex/34f2e8bcb18194924789d33837e721f5/raw/ea7e345c52d03ac5955aac315ee3b7cab86ba369/bookmarks.txt",
+      "tensorPath": "https://raw.githubusercontent.com/ec-idds/font-embeddings-config/master/8192_embeddings.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/ec-idds/font-embeddings-config/master/bookmarks.txt",
       "sprite": {
-        "imagePath": "https://dl.dropboxusercontent.com/s/fuxjhp1rbtd8d88/8192-montage.png",
+        "imagePath": "https://media.githubusercontent.com/media/ec-idds/font-embeddings-config/master/8192-montage.png",
         "singleImageDim": [
           64,
           64
